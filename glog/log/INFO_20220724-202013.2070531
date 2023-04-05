@@ -1,0 +1,5 @@
+Log file created at: 2022/07/24 20:20:13
+Running on machine: VM-12-3-ubuntu
+Running duration (h:mm:ss): 0:00:00
+Log line format: [IWEF]yyyymmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I20220724 20:20:13.485074 2070531 test_glog.cpp:15] hello world
