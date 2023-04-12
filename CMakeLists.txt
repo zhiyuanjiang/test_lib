@@ -3,10 +3,11 @@ project(test_lib)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_subdirectory(yaml)
+# add_subdirectory(yaml)
 add_subdirectory(gflag)
 add_subdirectory(glog)
 add_subdirectory(eigen)
+add_subdirectory(callback)
 
-add_executable(test main.cpp glog/test_glog.cpp)
+# add_executable(test main.cpp glog/test_glog.cpp)
 
